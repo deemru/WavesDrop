@@ -1,0 +1,10 @@
+{
+    "require": {
+        "deemru/waveskit": "1.0.*"
+    },
+    "scripts": {
+        "test": [
+            "@php WavesDrop.php"
+        ]
+    }
+}
